@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">VideoEditor</string>
+    <string name="video_editor_service">Anmy Video Editor</string>
+    <string name="video_editor">Video Editor</string>
+    <string name="video_editor_tip">Create your short videos</string>
+    <string name="experience_now">Experience Now >></string>
+    <string name="permission_tips">Please enable the Storage and Microphone permissions.</string>
+    <string name="cancels">Cancel</string>
+    <string name="start_tv">Get started</string>
+    <string name="back">Back</string>
+    <string name="version">Version</string>
+    <string name="delete">Delete</string>
+    <string name="rename_draft">Rename</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="motion_photo_subtitle">Portrait Resurrection</string>
+    <string name="face_smile_subtitle">Make the characters smile more natural</string>
+    <string name="ai_color_subtitle">One-click restoration of black-and-white images</string>
+    <string name="img_segment_sub_subtitle">Picture segmentation substitution</string>
+    <string name="img_segment_cutout_subtitle">Picture segmentation cutout</string>
+
+    <string name="motion_photo" priority="translator">Moving picture</string>
+    <string name="motion_photo_success" priority="translator">Moving picture generated.</string>
+    <string name="motion_photo_fail" priority="translator">Unable to generate moving picture.</string>
+    <string name="motion_photo_generated" priority="translator">Generating moving picture…</string>
+
+    <string name="face_smile">Auto-smile</string>
+    <string name="face_smile_success">Auto-smile generated successfully.</string>
+    <string name="face_smile_fail">Failed to generate auto-smile.</string>
+    <string name="ai_face_smile_generated">Auto-smile generation…</string>
+
+    <string name="ai_color" priority="translator">AI color</string>
+    <string name="ai_color_success" priority="translator">The AI color is generated successfully.</string>
+    <string name="ai_color_fail" priority="translator">Unable to generate ai color.</string>
+    <string name="ai_color_generated" priority="translator">Generating ai color…</string>
+    <string name="fun_description" priority="translator">Experiment and have fun with a range of AI features. Selected content will be uploaded to the cloud for processing. This content will not be saved on the cloud.</string>
+
+    <string name="img_segment_sub">Substitution</string>
+    <string name="img_segment_sub_success">Substitution generated successfully.</string>
+    <string name="img_segment_sub_fail">Failed to generate substitution.</string>
+    <string name="img_segment_sub_generated">Substitution generation.</string>
+
+    <string name="img_segment_cutout">Cutout</string>
+    <string name="img_segment_cutout_success">Cutout generated successfully.</string>
+    <string name="img_segment_cutout_fail">Failed to generate cutout.</string>
+    <string name="img_segment_cutout_generated">Cutout generation.</string>
+    <string name="img_segmentation">Segmentation</string>
+    <string name="img_hair">Hair</string>
+
+    <string name="cut">Cut</string>
+    <string name="cut_success">Cut success</string>
+    <string name="save_success">Save success</string>
+
+    <string name="intelligent_processing" priority="translator">Processing…</string>
+    <string name="view_file">View Files</string>
+    <string name="save_to_gallery_success">Saved to System Gallery</string>
+
+    <string name="ai_exception" priority="translator">AI Processing exception.</string>
+    <string name="please_select_picture">Please select a picture to process~</string>
+    <string name="no_pic_neededSave">Null Image needed to save</string>
+    <string name="click_add_picture">Click to add picture~</string>
+
+    <string name="select_picture">Select Picture</string>
+    <string name="replace_background">Background</string>
+    <string name="save">Save</string>
+
+</resources>

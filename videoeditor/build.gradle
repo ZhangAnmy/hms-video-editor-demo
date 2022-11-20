@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.huawei.agconnect'
+
+android {
+    compileSdkVersion 31
+    //buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.huawei.testapp01"
+        minSdkVersion 21
+        targetSdkVersion 30
+        multiDexEnabled true
+        versionCode 1
+        versionName "1.0"
+        resConfigs "en","zh-rCN","fr"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.aar'])
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.6.0'
+
+    // Video editor SDK.
+    implementation 'com.huawei.hms:video-editor-ui:1.1.0.305'
+    implementation 'com.huawei.hms:video-editor-ai:1.7.0.301'
+
+    // Import the base SDK.
+    implementation 'com.huawei.hms:ml-computer-vision-segmentation:3.7.0.302'
+    // Import the multiclass segmentation model package.
+    implementation 'com.huawei.hms:ml-computer-vision-image-segmentation-multiclass-model:3.7.0.302'
+    // Import the human body segmentation model package.
+    implementation 'com.huawei.hms:ml-computer-vision-image-segmentation-body-model:3.7.0.302'
+    // Import the hair segmentation model package.
+    implementation 'com.huawei.hms:ml-computer-vision-image-segmentation-hair-model:3.7.0.302'
+
+    testImplementation 'junit:junit:4.12'
+}

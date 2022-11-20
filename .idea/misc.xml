@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1605" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/drawable/button_enable.xml" value="0.1165" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/drawable/edittext_focused.xml" value="0.1165" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/drawable/ic_launcher_background.xml" value="0.1105" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/activity_friends.xml" value="0.2604166666666667" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/activity_main.xml" value="0.16203703703703703" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/activity_main_01.xml" value="0.23854166666666668" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/activity_main_02.xml" value="0.36614583333333334" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/friend_fragement.xml" value="0.2953125" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/layout_text.xml" value="0.16203703703703703" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/listtest.xml" value="0.2507836990595611" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/me_fragement.xml" value="0.2953125" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/petalmapsdemo.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/qqpicstext.xml" value="0.18518518518518517" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/test_fragement.xml" value="0.2953125" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/wechat_fragement.xml" value="0.175" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/layout/windows_phone.xml" value="0.1" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/menu/actionbar.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/menu/main.xml" value="0.36614583333333334" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1105" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/anmyhappy/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1105" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/app/src/main/res/drawable/bg_edit_text.xml" value="0.178" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/app/src/main/res/layout/activity_mltext.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/app/src/main/res/layout/dialog_select.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/drawable/background_main_btn.xml" value="0.1245" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/drawable/background_view.xml" value="0.1535" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/drawable/bg_toast_show.xml" value="0.169" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/drawable/button_circle_background.xml" value="0.1295" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/drawable/item_bg.xml" value="0.1165" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_aiphoto.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_editor.xml" value="0.3516209476309227" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_image_segmentation.xml" value="0.18541666666666667" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_image_segmentation_analyse.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_media_pick.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_mltext.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_setting.xml" value="0.18229166666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_still_cut.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_take_photo.xml" value="0.24114583333333334" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/activity_view_file.xml" value="0.264" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/adapter_draft_itme.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/fragment_bg_change.xml" value="0.2520833333333333" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/fragment_capture_image.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/imageseg_gridview.xml" value="0.2520833333333333" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/item_recyclerview.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/layout/layout_title.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/menu/menu.xml" value="0.33697916666666666" />
+        <entry key="..\:/01-Study/SampleCode/MyMapTest/videoeditor/src/main/res/menu/menu_main.xml" value="0.33697916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
